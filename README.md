@@ -1,6 +1,7 @@
 # LearningCPP
 This is all my own codes about Learning CPP.
-> **Learn Together:** You can contact me at pokintin@gmail.com or QQ 2778742270
+> **Learn Together:** You can contact me at yhxiys@outlook.com or QQ 2778742270
+> **about account:** @pokintin can't login, update in this one.
 
 All the file are compile in Visual Studio 2022 Community Version, using [Release x64].
 
